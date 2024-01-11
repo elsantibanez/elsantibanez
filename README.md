@@ -2,7 +2,7 @@
 - 👀 I’m interested in further developing my programing skills in Python 
 - 🌱 I’m currently learning more about cybersecurity 
 - 💞️ I’m looking to collaborate on developing tools that assist in keeping a network secure
-- 📫 How to reach me... el.santibanez@gmail.com
+- 📫 How to reach me... el.izquierdo@yahoo.com
 - ⚡ Fun fact: I collect gnomes 
 
 <!---
