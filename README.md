@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @elsantibanez
-- 👀 I’m interested in further developing my programing skills in Python 
+- 👀 Python's got me curious! I'm itching to level up my programming skills and delve deeper into the world of Python.
 - 🌱 I’m currently learning more about cybersecurity 
 - 💞️ I’m looking to collaborate on developing tools that assist in keeping a network secure
-- 📫 How to reach me... el.izquierdo@yahoo.com
+- 📫 How to reach me...
 - ⚡ Fun fact: I collect gnomes 
 
 <!---
