@@ -9,7 +9,7 @@
 
 📫 You can reach me via [contact details].
 
-⚡ Fun fact: I collect gnomes.
+⚡ Fun fact: I collect garden gnomes.
 
 <!---
 elsantibanez/elsantibanez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
